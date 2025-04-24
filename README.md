@@ -27,3 +27,13 @@ To access the actual datasets, and the data preparation methods, refer to the fo
 1. Example-1 : https://www.sciencedirect.com/science/article/abs/pii/S092702562200605X
 2. Example-2 : https://www.nature.com/articles/s41524-021-00574-w
 3. Example-3 : https://www.nature.com/articles/s41524-022-00879-4
+
+## Citation
+```
+@article{jain2024hybrid,
+  title={Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning},
+  author={Jain, Isha and Garg, Shailesh and Shriyam, Shaurya and Chakraborty, Souvik},
+  journal={arXiv preprint arXiv:2412.09379},
+  year={2024}
+}
+```
