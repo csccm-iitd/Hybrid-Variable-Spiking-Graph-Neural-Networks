@@ -24,6 +24,6 @@ Below are links to zip files containing dataloaders for each respective example.
 
 ## References 
 To access the actual datasets, and the data preparation methods, refer to the following papers for each example respectively. Github links for each can be found within the papers.
-Example-1 : https://www.sciencedirect.com/science/article/abs/pii/S092702562200605X
-Example-2 : https://www.nature.com/articles/s41524-021-00574-w
-Example-3 : https://www.nature.com/articles/s41524-022-00879-4
+\nExample-1 : https://www.sciencedirect.com/science/article/abs/pii/S092702562200605X
+\nExample-2 : https://www.nature.com/articles/s41524-021-00574-w
+\nExample-3 : https://www.nature.com/articles/s41524-022-00879-4
