@@ -6,7 +6,7 @@ The folder ```/codes``` contains all ```.ipynb``` notebooks for which results ha
 * No extra utility files are needed in Example-1, all notebooks can be run as is 
 * In Example-2, ```data.zip``` and ```hyper.zip``` need to be unzipped before run. ```norm.npz``` must stay as is
 * In Example-3, notebooks for training and creating stress field plots have been provided separately. Checkpoint files obtained after training would be used as input to create the stress field plots.
-Also note that for each example, Spiking Activity is only stored as variables and printed during training, but has not been explicitly written to any external file, and will have to be done by the user. Plots for spiking activity have been made using MATLAB, codes for which have been provided separately.
+Also note that for each example, Spiking Activity is only stored as variables and printed during training, but has not been explicitly written to any external file, and will have to be done by the user. 
 
 ## Libraries Required
 Please install the following libraries before running the scripts. Also note that cuda support is advised to avoid long training hours.
@@ -21,3 +21,9 @@ Below are links to zip files containing dataloaders for each respective example.
 1) Example-1 : https://drive.google.com/file/d/1AEmMN1XnRLZH8nG35Mhk_YNOf-DL02vx/view?usp=sharing
 2) Example-2 : https://drive.google.com/file/d/1GELfVzBOLEnUjYwhPPUI7DPf1K1K-Vx6/view?usp=sharing
 3) Example-3 : https://drive.google.com/file/d/1JpiHxgexKhUyBh9urRdr_CIqWddALRzA/view?usp=sharing
+
+## References 
+To access the actual datasets, and the data preparation methods, refer to the following papers for each example respectively. Github links for each can be found within the papers.
+Example-1 : https://www.sciencedirect.com/science/article/abs/pii/S092702562200605X
+Example-2 : https://www.nature.com/articles/s41524-021-00574-w
+Example-3 : https://www.nature.com/articles/s41524-022-00879-4
