@@ -23,7 +23,7 @@ Below are links to zip files containing dataloaders for each respective example.
 3) Example-3 : [Link](https://drive.google.com/file/d/1JpiHxgexKhUyBh9urRdr_CIqWddALRzA/view?usp=sharing)
 
 ## References 
-To access the actual datasets, and the data preparation methods, refer to the following papers for each example respectively. Github links for each can be found within the papers.
+To access the actual datasets, and the data preparation methods, refer to the following Github links.
 1. Example-1 : https://github.com/jonathanhestroffer/PolyGRAPH/tree/main
 2. Example-2 : https://github.com/mehmetfdemirel/PolycrystalGraph/tree/master
 3. Example-3 : https://github.com/lamm-mit/atomic2field/tree/main
