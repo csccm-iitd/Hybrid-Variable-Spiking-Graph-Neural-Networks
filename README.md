@@ -5,7 +5,7 @@ This repository contains codes for the method described in the paper : "Hybrid v
 The folder ```/codes``` contains all ```.ipynb``` notebooks for which results have been shown on the paper for each example respectively. Each notebook consists of codes for training, plotting graphs, and printing error values. Before running all files, ensure all dataloader folders are downloaded from the links below and appropriate paths are changes on the notebooks accordingly.
 * No extra utility files are needed in Example-1, all notebooks can be run as is 
 * In Example-2, ```data.zip``` and ```hyper.zip``` need to be unzipped before run. ```norm.npz``` must stay as is
-* In Example-3, notebooks for training and creating stress field plots have been provided separately. Checkpoint files obtained after training would be used as input to create the stress field maps. The code for stress field maps would also require raw data which can be downloaded from here [Data](https://drive.google.com/file/d/1eT30mFcywEpBwGm9R6MA1TOs1WoOzEjb/view?usp=sharing)
+* In Example-3, notebooks for training and creating stress field plots have been provided separately. Checkpoint files obtained after training would be used as input to create the stress field maps. The code for stress field maps would also require raw data which can be downloaded from here [Data](https://drive.google.com/file/d/1eT30mFcywEpBwGm9R6MA1TOs1WoOzEjb/view?usp=sharing). 
 Also note that for each example, Spiking Activity is only stored as variables and printed during training, but has not been explicitly written to any external file, and will have to be done by the user. 
 
 ## Libraries Required
