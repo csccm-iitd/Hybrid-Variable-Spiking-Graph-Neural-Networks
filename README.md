@@ -1,5 +1,5 @@
 # Hybrid-Variable-Spiking-Graph-Neural-Networks
-This repository contains codes for the method described in the paper : "Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning". Link to the paper is : https://arxiv.org/abs/2412.09379
+This repository contains codes for the method described in the paper : *"Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning"*. Link to the paper is : https://arxiv.org/abs/2412.09379
 
 ## Instructions to Run Scripts
 The folder ```/codes``` contains all ```.ipynb``` notebooks for which results have been shown on the paper for each example respectively. Each notebook consists of codes for training, plotting graphs, and printing error values. Before running all files, ensure all dataloader folders are downloaded from the links below and appropriate paths are changes on the notebooks accordingly.
